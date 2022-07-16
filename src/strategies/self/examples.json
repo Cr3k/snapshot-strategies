@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "self",
+      "params": {
+        "symbol": "SELF"
+      }
+    },
+    "network": "56",
+    "addresses": [
+      "0x26e82CB17cfd4ef12096f38f3ba0DAD6ea5B5035",
+      "0x21fF20E7e1B820020415707298b92299CF0951fE"
+    ],
+    "snapshot": 16308675
+  }
+]
